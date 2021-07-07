@@ -1,13 +1,13 @@
 .heat{
-    color: #ffb255  ;
+    color: limegreen  ;
         text-shadow: 
-            1px 0px 1px black, 0px 1px 1px rgb(153,50,204), 
-            2px 1px 1px rgb(255,0,255), 1px 2px 1px rgb(153,50,204),
-            3px 2px 1px rgb(255,0,255), 2px 3px 1px rgb(153,50,204),
-            4px 3px 1px rgb(255,0,255), 3px 4px 1px rgb(153,50,204),
-            5px 4px 1px rgb(255,0,255), 4px 5px 1px rgb(153,50,204),
-            6px 5px 1px rgb(255,0,255), 5px 6px 1px rgb(153,50,204),
-            7px 6px 1px rgb(255,0,255);
+            1px 0px 1px black, 0px 1px 1px rgb(0,0,0), 
+            2px 1px 1px rgb(20,80,20), 1px 2px 1px rgb(0,0,0),
+            3px 2px 1px rgb(20,80,20), 2px 3px 1px rgb(0,0,0),
+            4px 3px 1px rgb(20,80,20), 3px 4px 1px rgb(0,0,0),
+            5px 4px 1px rgb(20,80,20), 4px 5px 1px rgb(0,0,0),
+            6px 5px 1px rgb(20,80,20), 5px 6px 1px rgb(0,0,0),
+            7px 6px 1px rgb(20,80,20);
           z-index: 100;
         }
 h1 {
@@ -17,6 +17,6 @@ h1 {
 p {
     text-align: center;
 
-    color: #F90B6D; font-family: 'Open Sans', sans-serif; font-size: 24px; font-weight: 900; line-height: 32px; margin: 0 0 14px;
-    text-shadow: 2px 1px black;
+    color: limegreen; font-family: 'Open Sans', sans-serif; font-size: 24px; font-weight: 900; line-height: 32px; margin: 0 0 14px;
+    text-shadow: 2px 1.5px 1px black;
 }
